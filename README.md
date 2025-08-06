@@ -1,4 +1,4 @@
-<h2 align="left">Hey it's °. ☾Solar𖤓 ⋆ .°</h2>
+<h2 align="left">Hey it's °. ☾Solar✦ ⋆ .°</h2>
 
 ###
 
