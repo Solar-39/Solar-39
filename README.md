@@ -1,4 +1,6 @@
-<head><script type="text/javascript">
+<html>
+<head>
+  <script type="text/javascript">
 // <![CDATA[
 var colour="random"; // in addition to "random" can be set to any valid colour eg "#f0f" or "red"
 var sparkles=50;
@@ -199,6 +201,8 @@ function newColour() {
 
 ###
 
+<body>
+
 <p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
@@ -242,3 +246,7 @@ function newColour() {
 </picture>
 
 ###
+
+
+</body>
+</html>
