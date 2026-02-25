@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"> (๑>◡<๑)🍮🥄 ˚₊‧</p>
+
+<p align="left"> ⋆｡‧˚ʚ🧸ɞ˚‧｡⋆ </p>
+
 
 ###
 
@@ -10,7 +13,7 @@
 
 ###
 
-<p align="left">>⋆.🧸ྀི˚Name:⋆🌸*Hannie <br> ˙ .༘🍰⋆Hobbies: ★Art⋆˚✿🍒 <br> ★Music 🎧ྀི♪<br> °˖➴Favorite subject: Computer Graphics˙✧˖°📷 </p>
+<p align="left">>⋆.🧸ྀི˚Name:⋆🌸*Hannie <br> ˙ .༘🍰⋆Hobbies: <br> ★Art⋆˚✿🍒 <br> ★Music 🎧ྀི♪<br> °˖➴Favorite subject: Computer Graphics˙✧˖°📷 </p>
 
 ###
 
