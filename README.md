@@ -1,4 +1,4 @@
-<h1 align="left">𑣲⋆｡˚Oii˚⟡˖ ࣪</h1>
+<h1 align="left">⋆｡˚Oii˚⟡˖ </h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">>⋆.𐙚˚Name: 𖹭Hannie <br> ☆Hobbies: Artᯓ★<br> ☆Favorite subject: ｡𖦹°‧Computer Graphics</p>
+<p align="left">>⋆.🧸ྀི˚Name:⋆🌸*Hannie <br> ˙ .༘🍰⋆Hobbies: ★Art⋆˚✿🍒 <br> ★Music 🎧ྀི♪<br> °˖➴Favorite subject: Computer Graphics˙✧˖°📷 </p>
 
 ###
 
