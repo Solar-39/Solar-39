@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">>⋆.Name:Hannie⋆🌸* <br> ˙Hobbies: .༘🍰⋆ <br> ★Art⋆˚✿🍒 <br> ★Music 🎧ྀི♪<br> °˖➴Favorite subject: Computer Graphics˙✧˖°📷 </p>
+<p align="left">>⋆.Name:Hannie⋆🌸* <br> ˙Hobbies: .༘🍰⋆ <br> ★Art⋆˚✿🍒 <br> ★Music 🎧ྀི♪<br> °˖➴Favorite subject: Front end & Back End˙✧˖°📷 </p>
 
 ###
 
